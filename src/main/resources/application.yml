@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: padoteclocks
+      username: root
+      password: MongoDB2021!
+      authentication-database: admin
